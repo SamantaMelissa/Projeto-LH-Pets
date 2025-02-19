@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\Projeto LH Pets - T0\Tarde\obj\Debug\net8.0\Tarde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Projeto LH Pets - T0\Tarde\obj\Debug\net8.0\Tarde.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Projeto LH Pets - T0\Tarde\obj\Debug\net8.0\Tarde.AssemblyInfo.cs
+C:\Users\admin\Desktop\Projeto LH Pets - T0\Tarde\obj\Debug\net8.0\Tarde.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Projeto LH Pets - T0\Tarde\obj\Debug\net8.0\Tarde.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\Projeto LH Pets - T0\Tarde\obj\Debug\net8.0\Tarde.sourcelink.json
